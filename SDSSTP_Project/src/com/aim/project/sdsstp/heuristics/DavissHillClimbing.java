@@ -8,17 +8,7 @@ import com.aim.project.sdsstp.interfaces.HeuristicInterface;
 import com.aim.project.sdsstp.interfaces.SDSSTPSolutionInterface;
 
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- * Methods needing to be implemented:
- * - public double apply(SDSSTPSolutionInterface solution, double depthOfSearch, double intensityOfMutation)
- * - public boolean isCrossover()
- * - public boolean usesIntensityOfMutation()
- * - public boolean usesDepthOfSearch()
- */
+
 public class DavissHillClimbing extends HeuristicOperators implements HeuristicInterface {
 	
 	private final Random random;

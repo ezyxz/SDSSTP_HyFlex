@@ -7,11 +7,6 @@ import java.util.stream.IntStream;
 import AbstractClasses.ProblemDomain;
 import AbstractClasses.ProblemDomain.HeuristicType;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- */
 public class HyFlexUtilities {
 
 	public static int[] getHeuristicSetOfTypes(ProblemDomain problem, HeuristicType type, HeuristicType... types) {

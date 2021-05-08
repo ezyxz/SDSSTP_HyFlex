@@ -1,10 +1,6 @@
 package com.aim.project.sdsstp.hyperheuristics;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- */
+
 public class HeuristicPair {
 
 	private final int h1;

@@ -1,11 +1,6 @@
 package com.aim.project.sdsstp.instance;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- */
+
 public class Pair {
 
 	private final int x;

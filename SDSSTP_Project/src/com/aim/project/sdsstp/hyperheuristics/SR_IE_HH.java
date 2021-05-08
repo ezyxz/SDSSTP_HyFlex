@@ -15,12 +15,6 @@ import AbstractClasses.HyperHeuristic;
 import AbstractClasses.ProblemDomain;
 import AbstractClasses.ProblemDomain.HeuristicType;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- */
 public class SR_IE_HH extends HyperHeuristic {
 	
 	public SR_IE_HH(long seed) {

@@ -5,12 +5,7 @@ import java.util.Arrays;
 import com.aim.project.sdsstp.interfaces.ObjectiveFunctionInterface;
 import com.aim.project.sdsstp.interfaces.SDSSTPSolutionInterface;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- */
+
 public class HeuristicOperators {
 
 	/*

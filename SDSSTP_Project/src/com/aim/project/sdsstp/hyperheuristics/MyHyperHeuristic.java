@@ -15,12 +15,7 @@ import AbstractClasses.HyperHeuristic;
 import AbstractClasses.ProblemDomain;
 import AbstractClasses.ProblemDomain.HeuristicType;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- */
+
 public class MyHyperHeuristic extends HyperHeuristic {
 	
 	public MyHyperHeuristic(long seed) {

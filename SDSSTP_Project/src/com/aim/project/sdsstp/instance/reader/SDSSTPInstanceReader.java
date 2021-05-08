@@ -14,14 +14,7 @@ import com.aim.project.sdsstp.instance.SDSSTPLocation;
 import com.aim.project.sdsstp.interfaces.SDSSTPInstanceInterface;
 import com.aim.project.sdsstp.interfaces.SDSSTPInstanceReaderInterface;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- * Methods needing to be implemented:
- * - public SDSSTPInstanceInterface readSDSSTPInstance(Path path, Random random)
- */
+
 public class SDSSTPInstanceReader implements SDSSTPInstanceReaderInterface {
 
 	private static SDSSTPInstanceReader oInstance;

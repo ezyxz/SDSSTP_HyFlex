@@ -9,14 +9,7 @@ import com.aim.project.sdsstp.interfaces.SDSSTPSolutionInterface;
 import com.aim.project.sdsstp.solution.SDSSTPSolution;
 import com.aim.project.sdsstp.solution.SolutionRepresentation;
 
-/**
- * 
- * @author Warren G. Jackson
- * @since 26/03/2021
- * 
- * Methods needing to be implemented:
- * - public SDSSTPSolution createSolution(InitialisationMode mode)
- */
+
 public class SDSSTPInstance implements SDSSTPInstanceInterface {
 
 	private final String strInstanceName;

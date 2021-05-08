@@ -9,18 +9,7 @@ import com.aim.project.sdsstp.interfaces.ObjectiveFunctionInterface;
 import com.aim.project.sdsstp.interfaces.SDSSTPSolutionInterface;
 import com.aim.project.sdsstp.interfaces.XOHeuristicInterface;
 
-/**
- *
- * @author Warren G. Jackson
- * @since 26/03/2021
- *
- * Methods needing to be implemented:
- * - public double apply(SDSSTPSolutionInterface solution, double depthOfSearch, double intensityOfMutation)
- * - public double apply(SDSSTPSolutionInterface p1, SDSSTPSolutionInterface p2, SDSSTPSolutionInterface c, double depthOfSearch, double intensityOfMutation)
- * - public boolean isCrossover()
- * - public boolean usesIntensityOfMutation()
- * - public boolean usesDepthOfSearch()
- */
+
 public class CX implements XOHeuristicInterface {
 
 	private final Random random;
